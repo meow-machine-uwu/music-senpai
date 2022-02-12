@@ -1,3 +1,4 @@
 geckodriver*
 .cache
-sqlite
+metalarchives.*
+metalstorm.*
