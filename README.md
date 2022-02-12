@@ -11,7 +11,9 @@ IF YOU NEED HELP, PM ON DISCORD AND I CAN WALK YOU THROUGH EVERYTHING.
 You need three things.
 
 Python+Pip
+
 Firefox (for the geckodriver).
+
 Spotify Developer ID and Secret (sign up here: https://developer.spotify.com/dashboard/login) (it takes like 10 seconds, super easy)
 
 Once you have your spotify developer account, create a project. This project will tell you your client id and client secret which will be used later. You also want to edit the settings of your project to use the callback: http://localhost:8888/callback.
